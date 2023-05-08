@@ -1,6 +1,6 @@
-# lns-madam-optimizer
+# LNS-Madam Optimizer
 
-This repository contains the implementation of LNS-Madam optimizer proposed in [LNS-Madam: Low-Precision Training in Logarithmic Number System Using Multiplicative Weight Update](https://ieeexplore.ieee.org/document/9900267).
+This repository contains the implementation of LNS-Madam optimizer proposed in [LNS-Madam: Low-Precision Training in Logarithmic Number System Using Multiplicative Weight Update](https://ieeexplore.ieee.org/document/9900267). We provide a simple example using LNS-Madam optimizer in example.py.
 
 ## Citation
 
